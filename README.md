@@ -124,13 +124,5 @@ Each client is handled on a separate thread, showcasing how Java can be used to 
 - JDK 8 or higher
 - Any IDE (Eclipse, IntelliJ, VS Code) or terminal with `javac` and `java` commands
 
-### Compile and Run
-
-**For Server:**
-```bash
-javac ChatServer.java
-java ChatServer
-
-Output
-
+### Output
 ![Image](https://github.com/user-attachments/assets/1c9dde99-e2d8-4fcf-b7ca-65f4370ea31a)
