@@ -130,3 +130,7 @@ Each client is handled on a separate thread, showcasing how Java can be used to 
 ```bash
 javac ChatServer.java
 java ChatServer
+
+Output
+
+![Image](https://github.com/user-attachments/assets/e432d23a-df8b-4e07-9879-675bf04b6940)
