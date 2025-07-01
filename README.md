@@ -42,8 +42,8 @@ Each client is handled on a separate thread, showcasing how Java can be used to 
 
 ## Instructions
 
-> 🔧 **Build a client-server chat application using Java Sockets and Multithreading to handle multiple users.**  
-> 🎯 **Deliverable: A functional chat application with a server and multiple clients communicating in real-time.**
+> • **Build a client-server chat application using Java Sockets and Multithreading to handle multiple users.**  
+> • **Deliverable: A functional chat application with a server and multiple clients communicating in real-time.**
 
 ---
 
