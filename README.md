@@ -10,7 +10,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTHOSH
 
-📡 Task 3: Client-Server Chat Application
+📡 Task 3: Client-Server Chat Applications
 
 This project is a **Java-based multithreaded chat application** that allows multiple clients to connect and communicate with each other in real-time through a central server. It is built using core Java technologies such as **Java Sockets**, **Input/Output Streams**, and **Multithreading** to demonstrate the fundamentals of client-server communication and concurrent programming.
 The goal of this application is to showcase how multiple users (clients) can connect to a server simultaneously and engage in live chat. The server listens for incoming connections and creates a new thread for each connected client, ensuring that all clients can send and receive messages concurrently.
