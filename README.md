@@ -38,14 +38,10 @@ Each client is handled on a separate thread, showcasing how Java can be used to 
 -  **Graceful Disconnection**  
   Clients can disconnect at any time, and the server handles it smoothly by removing them from the active users list.
 
----
-
 ## Instructions
 
 > • **Build a client-server chat application using Java Sockets and Multithreading to handle multiple users.**  
 > • **Deliverable: A functional chat application with a server and multiple clients communicating in real-time.**
-
----
 
 ## File Structure
 
@@ -70,8 +66,6 @@ Each client is handled on a separate thread, showcasing how Java can be used to 
 - Spawns a background thread to listen to incoming messages from the server.
 - Reads user input from the console and sends it to the server for broadcasting.
 
----
-
 ## How It Works
 
 1. **Start the Server:**
@@ -89,8 +83,6 @@ Each client is handled on a separate thread, showcasing how Java can be used to 
 5. **Client Exit:**
    When a client exits (Ctrl+C or closes terminal), the server detects the disconnection and updates the active user list.
 
----
-
 ## Technologies Used
 
 - Java SE (Standard Edition)
@@ -98,15 +90,11 @@ Each client is handled on a separate thread, showcasing how Java can be used to 
 - Java I/O Streams (`java.io.*`)
 - Java Multithreading
 
----
-
 ## Use Cases
 
 - Educational purposes to learn socket programming and multithreading.
 - Foundation for building more complex messaging systems.
 - Base prototype for chatroom-like functionality in enterprise apps or games.
-
----
 
 ## Future Enhancements
 
@@ -114,8 +102,6 @@ Each client is handled on a separate thread, showcasing how Java can be used to 
 - Support for private messaging and user authentication.
 - Persist chat history to a database or file.
 - Integration with web services or REST APIs for message logging.
-
----
 
 ## Getting Started
 
